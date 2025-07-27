@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🖼️ Text-to-Image Generator with FastAPI
 
 This project is a simple **text-to-image** generation service built with **FastAPI** and integrated with **OpenAI's image API (DALL·E)**.
@@ -45,3 +46,6 @@ Final Notes:
 
 Despite the above limitations, the application structure, business logic, and test coverage are all complete and reflect a production-ready architecture.
 Once the billing and deployment barriers are resolved, the app can be deployed seamlessly.
+=======
+# text2image_service
+>>>>>>> 42acaaaaca46a539555851e7256e768b4df0a512
